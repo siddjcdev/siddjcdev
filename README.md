@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddjcdev
 - 👀 I’m interested in ...a lot of things
 - 🌱 I’m currently learning ...JS and HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...my new therapuetic shoe
 - 📫 How to reach me ...Discord or Gmail
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...French fies are from Belgium.
